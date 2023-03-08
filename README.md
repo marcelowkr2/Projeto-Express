@@ -7,34 +7,34 @@
  <h2>Instalar todas as dependencias indicadas pelo package.json.</h2>
  
  Primeiro comando<br>
- npm install
+ - npm install
 
  SEQUENCIA PARA CRIAR O PROJETO.<br>
  
  Criar o arquivo package<br>
- npm init
+  - npm init
 
 Gerancia as requisições, rotas e urls, entre outras funcionalidades<br>
-npm install express
+- npm install express
 
-Rodar o projeto
-### node app.js
+Rodar o projeto<br>
+- node app.js
 
-Acessar o projeto no navegador
-### http://localhost:8080
+Acessar o projeto no navegador<br>
+http://localhost:8080
 
-Instalar o módulo para reiniciar o servidor sempre que houver alteração no código fonte, g significa globalmente.
-### npm install -g nodemon
-### npm install --save-dev nodemon
+Instalar o módulo para reiniciar o servidor sempre que houver alteração no código fonte, g significa globalmente.<br>
+- npm install -g nodemon
+- npm install --save-dev nodemon
 
-Rodar o projeto com nodemon
-### nodemon app.js
+Rodar o projeto com nodemon<br>
+- nodemon app.js
 
-Sequelize é uma biblioteca Javascript que facilita o gerenciamento de um banco de dados SQL.
-### npm install --save sequelize
+Sequelize é uma biblioteca Javascript que facilita o gerenciamento de um banco de dados SQL.<br>
+- npm install --save sequelize
 
-Instalar o drive do banco de dados.
-### npm install --save mysql
+Instalar o drive do banco de dados.<br>
+- npm install --save mysql
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
