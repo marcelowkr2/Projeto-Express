@@ -4,8 +4,8 @@
   <div align="center"><h2>Criador de conteúdo de programação e tecnologia!</h2></div><br>
 
 <h1>COMO RODAR O PROJETO.</h1>
- * Instalar todas as dependencias indicadas pelo package.json.<br>
- ### npm install
+ <h2>Instalar todas as dependencias indicadas pelo package.json.</h2><br>
+ # npm install
 
  SEQUENCIA PARA CRIAR O PROJETO.<br>
  Criar o arquivo package
