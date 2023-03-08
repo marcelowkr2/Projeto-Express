@@ -10,7 +10,7 @@
 
  SEQUENCIA PARA CRIAR O PROJETO.<br>
  Criar o arquivo package
- ### npm init
+ npm init
 
 Gerancia as requisições, rotas e urls, entre outras funcionalidades
 ### npm install express
