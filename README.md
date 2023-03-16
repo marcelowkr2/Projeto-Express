@@ -6,8 +6,9 @@
 <h1>COMO RODAR O PROJETO.</h1>
  <h2>Instalar todas as dependencias indicadas pelo package.json.</h2>
  
-PRIMEIRO COMANDO
- - Use o comando npm install<br><br>
+Primeiro passo instale O NPM (Node Package Manager)
+NPM é um poderoso gerenciador de pacotes utilizado para administrar as bibliotecas e frameworks utilizados em uma aplicação.
+ - Use o comando <strong>npm install</strong><br><br>
 
  SEQUENCIA PARA CRIAR O PROJETO.<br>
  
