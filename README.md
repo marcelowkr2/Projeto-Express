@@ -11,30 +11,30 @@ PRIMEIRO COMANDO
 
  SEQUENCIA PARA CRIAR O PROJETO.<br>
  
- Criar o arquivo package<br>
-  - npm init
+ <strong>Criar o arquivo package</strong>
+  - Use o comando npm init<br><br>
 
-Gerancia as requisições, rotas e urls, entre outras funcionalidades<br>
-- npm install express
+Gerancia as requisições, rotas e urls, entre outras funcionalidades
+- npm install express<br><br>
 
-Rodar o projeto<br>
-- node app.js
+Rodar o projeto
+- node app.js<br><br>
 
-Acessar o projeto no navegador<br>
-http://localhost:8080
+Acessar o projeto no navegador
+http://localhost:8080<br><br>
 
-Instalar o módulo para reiniciar o servidor sempre que houver alteração no código fonte, g significa globalmente.<br>
+Instalar o módulo para reiniciar o servidor sempre que houver alteração no código fonte, g significa globalmente.
 - npm install -g nodemon
-- npm install --save-dev nodemon
+- npm install --save-dev nodemon<br><br>
 
-Rodar o projeto com nodemon<br>
-- nodemon app.js
+Rodar o projeto com nodemon
+- nodemon app.js<br><br>
 
-Sequelize é uma biblioteca Javascript que facilita o gerenciamento de um banco de dados SQL.<br>
-- npm install --save sequelize
+Sequelize é uma biblioteca Javascript que facilita o gerenciamento de um banco de dados SQL.
+- npm install --save sequelize<br><br>
 
-Instalar o drive do banco de dados.<br>
-- npm install --save mysql
+Instalar o drive do banco de dados.
+- npm install --save mysql<br><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-js" height="30" width="40" src="https://img.icons8.com/fluency/256/node-js.png">
