@@ -30,7 +30,7 @@ O Nodemon é uma ferramenta de linha de comando que ajuda os desenvolvedores a m
 - <strong>npm install --save-dev nodemon</strong><br><br>
 
 <strong>Rodar o projeto com nodemon</strong>
-- <strong>nodemon app.js</strong><br><br>
+- <strong>nodemon app.js ou npm run dev</strong><br><br>
 
 5º passo instalar Sequelize 
 Seuquelize é uma biblioteca Javascript que facilita o gerenciamento de um banco de dados SQL.
