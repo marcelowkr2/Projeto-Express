@@ -6,8 +6,8 @@
 <h1>COMO RODAR O PROJETO.</h1>
  <h2>Instalar todas as dependencias indicadas pelo package.json.</h2>
  
-PRIMEIRO COMANDO<br>
- - Use o comando npm install
+PRIMEIRO COMANDO
+ - Use o comando npm install<br><br>
 
  SEQUENCIA PARA CRIAR O PROJETO.<br>
  
