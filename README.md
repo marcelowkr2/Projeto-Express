@@ -7,7 +7,7 @@
  <h2>Instalar todas as dependencias indicadas pelo package.json.</h2>
  
  Primeiro comando<br>
- - npm install
+ - Use o comando npm install
 
  SEQUENCIA PARA CRIAR O PROJETO.<br>
  
