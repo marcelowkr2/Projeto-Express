@@ -6,36 +6,38 @@
 <h1>COMO RODAR O PROJETO.</h1>
  <h2>Instalar todas as dependencias indicadas pelo package.json.</h2>
  
-Primeiro passo instale O NPM (Node Package Manager)
+1º passo instale O NPM (Node Package Manager)
 NPM é um poderoso gerenciador de pacotes utilizado para administrar as bibliotecas e frameworks utilizados em uma aplicação.
  - Use o comando <strong>npm install</strong><br><br>
 
  SEQUENCIA PARA CRIAR O PROJETO.<br>
  
- <strong>Criar o arquivo package</strong>
-  - Use o comando npm init<br><br>
+ <strong>2º passo criar o arquivo package.json</strong>
+  - Use o comando <strong>npm init</strong><br><br>
 
-Gerancia as requisições, rotas e urls, entre outras funcionalidades
-- npm install express<br><br>
+<strong>3º passo instale o Express que gerencia as requisições, rotas e urls, entre outras funcionalidades.</strong>
+- Use o comando <strong>npm install express</strong><br><br>
 
-Rodar o projeto
-- node app.js<br><br>
+<strong>Para startar o servidor local.</strong>
+- Use o comando <strong>node app.js</strong><br><br>
 
 Acessar o projeto no navegador
 http://localhost:8080<br><br>
 
-Instalar o módulo para reiniciar o servidor sempre que houver alteração no código fonte, g significa globalmente.
-- npm install -g nodemon
-- npm install --save-dev nodemon<br><br>
+4º passo instalar o módulo NODEMON para reiniciar o servidor sempre que houver alteração no código fonte, g significa globalmente.
+O Nodemon é uma ferramenta de linha de comando que ajuda os desenvolvedores a monitorar automaticamente as alterações nos arquivos do projeto e reiniciar o servidor Node
+- <strong>npm install -g nodemon</strong>
+- <strong>npm install --save-dev nodemon</strong><br><br>
 
-Rodar o projeto com nodemon
-- nodemon app.js<br><br>
+<strong>Rodar o projeto com nodemon</strong>
+- <strong>nodemon app.js</strong><br><br>
 
-Sequelize é uma biblioteca Javascript que facilita o gerenciamento de um banco de dados SQL.
+5º passo instalar Sequelize 
+Seuquelize é uma biblioteca Javascript que facilita o gerenciamento de um banco de dados SQL.
 - npm install --save sequelize<br><br>
 
-Instalar o drive do banco de dados.
-- npm install --save mysql<br><br>
+6º passo instalar as dependências do banco de dados Mysql.
+- Use o comando <strong>npm install --save mysql</strong><br><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-js" height="30" width="40" src="https://img.icons8.com/fluency/256/node-js.png">
